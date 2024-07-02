@@ -1,0 +1,2 @@
+# SIGNATE-J2024
+SIGNATE Jリーグの観客動員数予測2024用
